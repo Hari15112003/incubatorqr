@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303101962599",
+    "project_id": "redhat-9dd2d",
+    "storage_bucket": "redhat-9dd2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303101962599:android:603dddd49cbb50a99a27c2",
+        "android_client_info": {
+          "package_name": "com.example.redhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303101962599-j573nm73onpfa8o73itr3a8vd4maq1pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmbTBaRTREsv6UETQdQgxvzH6o41whaJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303101962599-j573nm73onpfa8o73itr3a8vd4maq1pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
